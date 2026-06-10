@@ -1,9 +1,9 @@
 {
   "KPlugin": {
     "Id": "gabor.mywallpaper",
-    "Name": "macOS 27 wallpapers for Plasma",
-    "Description": "A light and dark Plasma wallpaper",
-    "License": "CC-BY-SA-4.0",
+    "Name": "Golden Gate Dynamic",
+    "Description": "The new macOS 27 wallpapers for Plasma",
+    "License": "GPL-3.0-only",
     "Authors": [
       {
         "Name": "gabors0",
