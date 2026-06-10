@@ -1,0 +1,15 @@
+{
+  "KPlugin": {
+    "Id": "gabor.mywallpaper",
+    "Name": "macOS 27 wallpapers for Plasma",
+    "Description": "A light and dark Plasma wallpaper",
+    "License": "CC-BY-SA-4.0",
+    "Authors": [
+      {
+        "Name": "gabors0",
+        "Email": "gabors0@proton.me"
+      }
+    ]
+  },
+  "X-KDE-CrossFade": true
+}
